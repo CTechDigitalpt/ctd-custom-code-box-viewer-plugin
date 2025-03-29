@@ -11,7 +11,7 @@
 
 ## 🛠️ Features
 
-### 🆓 Standard (Free) Version🎨
+### 🆓 Standard (Free) Version 🎨
 - ✅ Customizable font styles
 - ✅ Adjustable code box colors and borders
 - ✅ Copy button with basic positioning
@@ -21,7 +21,7 @@
 - ✅ Most code formats accepted
 - ✅ Mobile-friendly interface
 
-### 🚀 Pro Version🎯
+### 🚀 Pro Version 🎯
 Upgrade to **Pro** for additional features:
 - 🌟 Syntax Highlighting
 - 🌟 Multiple Code Box Styles
@@ -35,7 +35,7 @@ Upgrade to **Pro** for additional features:
 
 Get it [here](https://www.ctechdigital.com/wp-plugin/sticky-code-box-wp-plugin/pro/).
 
-## 🛡️ Security Features🔐
+## 🛡️ Security Features 🔐
 
 The **CTD Custom Code Box** plugin includes built-in security measures to protect your site:
 
@@ -49,7 +49,7 @@ The **CTD Custom Code Box** plugin includes built-in security measures to protec
 - **Strict Form Handling:** Verifies POST requests, ensuring they come from trusted sources and contain valid nonces.
 - **No External Dependencies:** The plugin exclusively uses internal resources, eliminating reliance on third-party scripts or services, making it even safer.
 
-## 📚 Usage🌎
+## 📚 Usage 🌎
 
 1. Navigate to **Code Box** Menu in your WordPress admin.
 2. Customize your code box appearance and button placement.
@@ -79,6 +79,6 @@ greet();
 - `language="javascript"` → Enables syntax highlighting for JavaScript.
 - `line_numbers="true"` → Enables line numbering for better readability.
 
-## 🐝 Support🔗
+## 🖌 Support 🔗
 
 Need help? [Open an issue](https://github.com/CTechDigitalpt/wp-code-frame-viewer-plugin/issues) or visit our [support page](https://www.ctechdigital.com/wp-plugin/sticky-code-box-wp-plugin/support/).
