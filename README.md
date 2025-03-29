@@ -21,7 +21,7 @@
 - ✅ Most code formats accepted
 - ✅ Mobile-friendly interface
 
-### 🚀 Pro Version 🎯
+### 🚀 Pro Version 🎯 Still in Development (Donator's will receive Free Pro Versions)
 Upgrade to **Pro** for additional features:
 - 🌟 Syntax Highlighting
 - 🌟 Multiple Code Box Styles
@@ -82,3 +82,14 @@ greet();
 ## 🖌 Support 🔗
 
 Need help? [Open an issue](https://github.com/CTechDigitalpt/wp-code-frame-viewer-plugin/issues) or visit our [support page](https://www.ctechdigital.com/wp-plugin/sticky-code-box-wp-plugin/support/).
+
+
+## ## 💖 Donate ## ##
+If you appreciate our work and wish us to continue with development of the Pro Version and send us donations you will receive receive Free Access when it is published, please consider supporting us:
+
+- **[Buy Me a Coffee](https://ko-fi.com/yourusername)**
+- **[Patreon](https://www.patreon.com/yourusername)**
+- **[PayPal](https://www.paypal.me/yourusername)**
+
+
+Your support helps us keep improving and adding new features to this plugin!
