@@ -83,6 +83,13 @@ greet();
 
 Need help? [Open an issue](https://github.com/CTechDigitalpt/wp-code-frame-viewer-plugin/issues) or visit our [support page](https://www.ctechdigital.com/wp-plugin/sticky-code-box-wp-plugin/support/).
 
+## ▶️ Plugin Showcase ▶️
+
+Watch the plugin in action on YouTube:
+
+[![CTD Custom Code Box Plugin Showcase](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+Click the image above or [here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) to watch the video!
 
 ## ## 💖 Donate ## ##
 If you appreciate our work and wish us to continue with development of the Pro Version and send us donations you will receive receive Free Access when it is published, please consider supporting us:
