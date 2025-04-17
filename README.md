@@ -4,7 +4,7 @@
 
 ## ⚙️ Installation
 
-1. **Download** the plugin from the [official website](https://www.ctechdigital.com/wp-plugin/sticky-code-box-wp-plugin/) or GitHub.
+1. **Download** the plugin from the [official website](https://www.ctechdigital.com/wp-plugins/free-wp-code-box-display-plugin/) or GitHub.
 2. **Upload** it to your WordPress site via the Plugins menu.
 3. **Activate** the plugin in the Plugins dashboard.
 4. **Configure** the settings under `Settings > Custom Code Box`.
