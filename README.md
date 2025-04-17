@@ -21,16 +21,15 @@
 - ✅ Most code formats accepted
 - ✅ Mobile-friendly interface
 
-### 🚀 Pro Version * Still in Development (Donator's will receive Free Pro Versions)
+### * Pro Version * Still in Development (Early Donator's will receive Free Pro Version on Launch)
 Upgrade to **Pro** for additional features:
-- 🌟 Syntax Highlighting
-- 🌟 Multiple Code Box Styles
-- 🌟 Advanced Copy Button Controls
+- 🌟 Syntax Highlighting according to Language
+- 🌟 Multiple Code Box Styles Configurations
+- 🌟 More Advanced Copy Button Controls
 - 🌟 Copy Button Click Tracking
 - 🌟 Advanced Color Picker
 - 🌟 Code Line Numbering
 - 🌟 Dynamic Copy Button with Scroll
-- 🌟 Export & Import Settings
 - 🌟 Priority Support
 
 Get it [here](https://www.ctechdigital.com/wp-plugins/free-wp-code-box-display-plugin).
@@ -51,7 +50,7 @@ The **CTD Custom Code Box** plugin includes built-in security measures to protec
 
 ##  Usage 
 
-1. Navigate to **Code Box** Menu in your WordPress admin.
+1. Navigate to **Codey Box** Menu in your WordPress admin.
 2. Customize your code box appearance and button placement.
 3. Embed code snippets in posts or pages using:
 
