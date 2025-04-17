@@ -11,7 +11,7 @@
 
 ## 🛠️ Features
 
-### 🆓 Standard (Free) Version 🎨
+### Standard (Free) Version
 - ✅ Customizable font styles
 - ✅ Adjustable code box colors and borders
 - ✅ Copy button with basic positioning
@@ -21,7 +21,7 @@
 - ✅ Most code formats accepted
 - ✅ Mobile-friendly interface
 
-### 🚀 Pro Version 🎯 Still in Development (Donator's will receive Free Pro Versions)
+### 🚀 Pro Version * Still in Development (Donator's will receive Free Pro Versions)
 Upgrade to **Pro** for additional features:
 - 🌟 Syntax Highlighting
 - 🌟 Multiple Code Box Styles
@@ -33,9 +33,9 @@ Upgrade to **Pro** for additional features:
 - 🌟 Export & Import Settings
 - 🌟 Priority Support
 
-Get it [here](https://www.ctechdigital.com/wp-plugin/sticky-code-box-wp-plugin/pro/).
+Get it [here](https://www.ctechdigital.com/wp-plugins/free-wp-code-box-display-plugin).
 
-## 🛡️ Security Features 🔐
+## 🛡 Security Features
 
 The **CTD Custom Code Box** plugin includes built-in security measures to protect your site:
 
@@ -49,7 +49,7 @@ The **CTD Custom Code Box** plugin includes built-in security measures to protec
 - **Strict Form Handling:** Verifies POST requests, ensuring they come from trusted sources and contain valid nonces.
 - **No External Dependencies:** The plugin exclusively uses internal resources, eliminating reliance on third-party scripts or services, making it even safer.
 
-## 📚 Usage 🌎
+##  Usage 
 
 1. Navigate to **Code Box** Menu in your WordPress admin.
 2. Customize your code box appearance and button placement.
@@ -79,17 +79,17 @@ greet();
 - `language="javascript"` → Enables syntax highlighting for JavaScript.
 - `line_numbers="true"` → Enables line numbering for better readability.
 
-## 🖌 Support 🔗
+##  Support 
 
-Need help? [Open an issue](https://github.com/CTechDigitalpt/wp-code-frame-viewer-plugin/issues) or visit our [support page](https://www.ctechdigital.com/wp-plugin/sticky-code-box-wp-plugin/support/).
+Need help? [Open an issue](https://github.com/CTechDigitalpt/ctd-custom-code-box-viewer-plugin/issues) or visit our [support page](https://www.ctechdigital.com/wp-plugins/free-wp-code-box-display-plugin/support/).
 
-## ▶️ Plugin Showcase ▶️
+## Plugin Showcase ▶
 
 Watch the plugin in action on YouTube:
 
-[![CTD Custom Code Box Plugin Showcase](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![CTD Custom Code Box Plugin Showcase](https://img.youtube.com/@CTech_Digital/maxresdefault.jpg)](https://www.youtube.com/watch?v=CTech_Digital)
 
-Click the image above or [here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) to watch the video!
+Click the image above or [here](https://www.youtube.com/watch?v=CTech_Digital) to watch the video!
 
 ## ## 💖 Donate ## ##
 If you appreciate our work and wish us to continue with development of the Pro Version and send us donations you will receive receive Free Access when it is published, please consider supporting us:
