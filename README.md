@@ -93,9 +93,9 @@ Click the image above or [here](https://www.youtube.com/watch?v=CTech_Digital) t
 ## ## 💖 Donate ## ##
 If you appreciate our work and wish us to continue with development of the Pro Version and send us donations you will receive receive Free Access when it is published, please consider supporting us:
 
-- **[Buy Me a Coffee](https://ko-fi.com/yourusername)**
-- **[Patreon](https://www.patreon.com/yourusername)**
-- **[PayPal](https://www.paypal.me/yourusername)**
+- **[Buy Me a Coffee](https://ko-fi.com/ctechdigitalcom)**
+- **[Patreon](https://www.patreon.com/ctechdigital)**
+- **[PayPal](htt)**
 
 
 Your support helps us keep improving and adding new features to this plugin!
