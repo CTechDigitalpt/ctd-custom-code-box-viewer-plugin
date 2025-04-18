@@ -9,7 +9,7 @@
 3. **Activate** the plugin in the Plugins dashboard.
 4. **Configure** the settings under `Settings > Custom Code Box`.
 
-## 🛠️ Features
+## Features
 
 ### Standard (Free) Version
 - ✅ Customizable font styles
