@@ -95,7 +95,7 @@ If you appreciate our work and wish us to continue with development of the Pro V
 
 - **[Buy Me a Coffee](https://ko-fi.com/ctechdigitalcom)**
 - **[Patreon](https://www.patreon.com/ctechdigital)**
-- **[PayPal](htt)**
+- **[PayPal](https://www.paypal.com/donate/?hosted_button_id=8HUVZWJUYLY82)**
 
 
 Your support helps us keep improving and adding new features to this plugin!
