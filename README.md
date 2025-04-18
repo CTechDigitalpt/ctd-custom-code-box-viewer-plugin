@@ -1,4 +1,4 @@
-# ✨ CTD Custom Code Box ✨
+# ✨ CTD Custom Code Box Viewer Plugin ✨
 
 > A powerful and customizable code box plugin for WordPress.
 
